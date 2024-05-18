@@ -1,59 +1,59 @@
 {
-    "Posts": [
-      {
-        "body": "Содержимое",
-        "id": 0,
-        "title": "Название поста"
-      }
-    ],
-    "Products": [
-      {
-        "active": true,
-        "blend": "65% арабика, 35% робуста",
-        "body": " История города Флоренция отражена в смеси зерен.Произведенный из высочайшего качества зерен арабики и робусты, он предпологает собой густой и однородный крем.Интенсивный и насыщенный вкус с оттенками какао и сливы.Оставляет также послевкусие поджаренного хлеба и славится отличной стойкостью. ",
-        "id": 0,
-        "img": "http://u153163.test-handyhost.ru/static/media/firenze--bonini-grani_800x.webp",
-        "price": "2010",
-        "roast": "Темная",
-        "title": "Firenze",
-        "url": "firenze-bonini-grani",
-        "weight": "1000"
-      },
-      {
-        "active": true,
-        "blend": "70% арабика, 30% робуста",
-        "body": "Милан как \"Лучший игрок\", как прекрасный, модный имногогранный город! Эта смесь обеспечивает беспроигрышное решение как по мягкости, так и по структуре. Фактически, этоидеальный баланс смеси.Легкая кислинка сливается с сочетанием аромотов лесного ореха исухофруктов. Очень слодкий, с бархотистым и одновременно горьковатым послевкусием.",
-        "id": 1,
-        "img": "http://u153163.test-handyhost.ru/static/media/milano-bonini-grani_800x.webp",
-        "price": "1585",
-        "roast": "Средняя",
-        "title": "Milano",
-        "url": "milano-bonini-grani",
-        "weight": "1000"
-      },
-      {
-        "active": true,
-        "blend": "50% арабика, 50% робуста",
-        "body": "Все дороги ведут в Рим! С этой смесью мы получаем идеальноесочетание зерен, создаем бодрящую энергией чашку эспрессо с терпким‘ароматом. Комбинируя две средние обжарки, цель которых состоит в том,чтобы добиться карамелизации и горько-слодких нот.Очень густая и темно-коричневая кремообразная масса помогает придатьэспрессо более насыщенный вкус и длительное послевкусие. Лучший выбордля ценителей! ",
-        "id": 2,
-        "img": "http://u153163.test-handyhost.ru/static/media/roma-bonini-grani_800x.webp",
-        "price": "1485 ",
-        "roast": "Средняя",
-        "title": "Roma",
-        "url": "roma-bonini-grani",
-        "weight": "1000"
-      },
-      {
-        "active": true,
-        "blend": "100% робуста",
-        "body": "Крепкий! Богатые ноты горького шоколада иподжаренных орехов с характерной терпкостью и с высокимсодержанием кофеина. Но в нашей фирменной смеси мыбалансируем различные зерна, которые выращиваются вЦентральной и Западной Африке, а также в некоторых частях Юго-Восточной Азии, чтобы конечный вкус ощущался болеемягче. Это сочетание в итоге отражает “традицию” питьитальянский эспрессо.\"Ристретто звучит хорошо всегда, как утром после еды или длябыстрого перерыва в баре\"",
-        "id": 3,
-        "img": "http://u153163.test-handyhost.ru/static/media/napoli-bonini-grani_800x.webp",
-        "price": "1355 ",
-        "roast": "Темная",
-        "title": "Napoli",
-        "url": "napoli-bonini-grani",
-        "weight": "1000"
-      }
-    ]
-  }
+  "Posts": [
+    {
+      "body": "Содержимое",
+      "id": 0,
+      "title": "Название поста"
+    }
+  ],
+  "Products": [
+    {
+      "active": true,
+      "blend": "65% арабика, 35% робуста",
+      "body": " История города Флоренция отражена в смеси зерен.Произведенный из высочайшего качества зерен арабики и робусты, он предпологает собой густой и однородный крем.Интенсивный и насыщенный вкус с оттенками какао и сливы.Оставляет также послевкусие поджаренного хлеба и славится отличной стойкостью. ",
+      "id": 0,
+      "img": "https://yandex.ru/images/search?crop=0.016%3B0.016%3B0.984%3B0.984&tmpl_version=releases%2Ffrontend%2Fimages%2Fv1.1305.0%2301991f431bb386297ff4022eb5fff8c0a34acf69&rpt=imageview&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2F175730213_485017222650412_2643809702850708776_n.jpg%3Fstp%3Ddst-jpg_e35_s640x640_sh0.08%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3DDqVbqHmPV0oAX-SNnly%26edm%3DAOQ1c0wBAAAA%26ccb%3D7-5%26oh%3D00_AfB4ad1Oxkm6EWCfavA16afRYKEMlVGB5aOHm-oUqpUZ7w%26oe%3D65D84ACC%26_nc_sid%3D8b3546&lr=10309&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F12856581%2FCdBKEvGQq6338XLh1BfSSQ8596%2Forig&cbir_id=12856581%2FCdBKEvGQq6338XLh1BfSSQ8596&cbir_page=similar",
+      "price": "2020",
+      "roast": "Темная",
+      "title": "Firenze",
+      "url": "firenze-bonini-grani",
+      "weight": "1000"
+    },
+    {
+      "active": true,
+      "blend": "70% арабика, 30% робуста",
+      "body": "Милан как \"Лучший игрок\", как прекрасный, модный имногогранный город! Эта смесь обеспечивает беспроигрышное решение как по мягкости, так и по структуре. Фактически, этоидеальный баланс смеси.Легкая кислинка сливается с сочетанием аромотов лесного ореха исухофруктов. Очень слодкий, с бархотистым и одновременно горьковатым послевкусием.",
+      "id": 1,
+      "img": "https://yandex.ru/images/search?crop=0.016%3B0.016%3B0.984%3B0.984&tmpl_version=releases%2Ffrontend%2Fimages%2Fv1.1305.0%2301991f431bb386297ff4022eb5fff8c0a34acf69&rpt=imageview&img_url=https%3A%2F%2Fsun9-61.userapi.com%2Fimpg%2FvoqxUOq2q2KL9Nxc7e8dVUNHGyQwz7p1pT8usg%2FyeQHoU0pFVs.jpg%3Fsize%3D320x569%26quality%3D96%26sign%3D44e792357452f305c2717d4a81d2a08c%26c_uniq_tag%3DoVT9LSUoiIebh9jlILFa0f7RxvuLTs9Z6XPYnu2BsUo%26type%3Dalbum&lr=10309&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F12856581%2FCdBKEvGQq6338XLh1BfSSQ8596%2Forig&cbir_id=12856581%2FCdBKEvGQq6338XLh1BfSSQ8596&cbir_page=similar",
+      "price": "1585",
+      "roast": "Средняя",
+      "title": "Milano",
+      "url": "milano-bonini-grani",
+      "weight": "1000"
+    },
+    {
+      "active": true,
+      "blend": "50% арабика, 50% робуста",
+      "body": "Все дороги ведут в Рим! С этой смесью мы получаем идеальноесочетание зерен, создаем бодрящую энергией чашку эспрессо с терпким‘ароматом. Комбинируя две средние обжарки, цель которых состоит в том,чтобы добиться карамелизации и горько-слодких нот.Очень густая и темно-коричневая кремообразная масса помогает придатьэспрессо более насыщенный вкус и длительное послевкусие. Лучший выбордля ценителей! ",
+      "id": 2,
+      "img": "https://yandex.ru/images/search?crop=0.016%3B0.016%3B0.984%3B0.984&tmpl_version=releases%2Ffrontend%2Fimages%2Fv1.1305.0%2301991f431bb386297ff4022eb5fff8c0a34acf69&rpt=imageview&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.12442-15%2Fe35%2Fc0.420.1080.1080a%2Fs150x150%2F25014007_176483689755280_1662562315360272384_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3Di7_rPb9rFhEAX-4m514%26edm%3DAGW0Xe4AAAAA%26ccb%3D7-4%26oh%3D175fa1976dbcc23f01d1d49421b30979%26oe%3D606C9685%26_nc_sid%3Dacd11b&lr=10309&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F12856581%2FCdBKEvGQq6338XLh1BfSSQ8596%2Forig&cbir_id=12856581%2FCdBKEvGQq6338XLh1BfSSQ8596&cbir_page=similar",
+      "price": "1485 ",
+      "roast": "Средняя",
+      "title": "Roma",
+      "url": "roma-bonini-grani",
+      "weight": "1000"
+    },
+    {
+      "active": true,
+      "blend": "100% робуста",
+      "body": "Крепкий! Богатые ноты горького шоколада иподжаренных орехов с характерной терпкостью и с высокимсодержанием кофеина. Но в нашей фирменной смеси мыбалансируем различные зерна, которые выращиваются вЦентральной и Западной Африке, а также в некоторых частях Юго-Восточной Азии, чтобы конечный вкус ощущался болеемягче. Это сочетание в итоге отражает “традицию” питьитальянский эспрессо.\"Ристретто звучит хорошо всегда, как утром после еды или длябыстрого перерыва в баре\"",
+      "id": 3,
+      "img": "https://yandex.ru/images/search?crop=0.016%3B0.016%3B0.984%3B0.984&tmpl_version=releases%2Ffrontend%2Fimages%2Fv1.1305.0%2301991f431bb386297ff4022eb5fff8c0a34acf69&rpt=imageview&img_url=https%3A%2F%2Fsun1-25.userapi.com%2FRKSLE6wa6_-JyNBeVjPHZCwr_ROUlfwaaNTbWQ%2FG96xRaZFH3o.jpg&lr=10309&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F12856581%2FCdBKEvGQq6338XLh1BfSSQ8596%2Forig&cbir_id=12856581%2FCdBKEvGQq6338XLh1BfSSQ8596&cbir_page=similar",
+      "price": "1355 ",
+      "roast": "Темная",
+      "title": "Napoli",
+      "url": "napoli-bonini-grani",
+      "weight": "1000"
+    }
+  ]
+}
